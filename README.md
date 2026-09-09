@@ -1,5 +1,11 @@
 # Win11 Task View Toggle
 
+<img width="1920" height="1080" alt="can-someone-tell-me-why-the-task-view-is-on-the-left-v0-rlwc1uzops091" src="https://github.com/user-attachments/assets/3730c528-57ef-403f-bcaa-c9ec46f14ff8" />
+
+
+<img width="977" height="514" alt="Screenshot 2026-09-09 232246" src="https://github.com/user-attachments/assets/27d7ae05-d901-4eb0-bf81-bf0b1c8cf8dc" />
+
+
 A single batch script to fully **enable or disable Windows 11 Task View** ("Desktop View"), including several less-obvious triggers that Windows' own Settings app doesn't fully cover — touchpad gestures, Xbox Game Bar controller shortcuts, and USB power-management quirks that can cause Task View to pop up unexpectedly.
 
 Built to work around a Windows 11 bug where Task View re-enables itself or gets triggered by unrelated hardware events even after being turned off in Settings.
